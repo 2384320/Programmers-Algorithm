@@ -5,7 +5,7 @@
 - [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824)
 - [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
 
-## 문자열 뒤집
+## 문자열 뒤집기
 
 ### 문제 설명
 
