@@ -2,7 +2,7 @@
 
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|
-| 41 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [41.java]() | [Link](https://www.notion.so/Lv-1-f114dc776af343baa7a329ade0171640?pvs=4) |
+| 41 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [41.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/41~50/41.java) | [Link](https://www.notion.so/Lv-1-f114dc776af343baa7a329ade0171640?pvs=4) |
 | 42 | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | [42.java]() | [Link]() |
 | 43 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [43.java]() | [Link]() |
 | 44 | [3진법 뒤지기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [44.java]() | [Link]() |
