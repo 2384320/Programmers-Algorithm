@@ -2,5 +2,5 @@
 
 - [SELECT](https://velog.io/@6720/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-SQL-%EA%B3%A0%EB%93%9D%EC%A0%90-Kit-SELECT)
 - [SUM, MAX, MIN](https://velog.io/@6720/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-SQL-%EA%B3%A0%EB%93%9D%EC%A0%90-Kit-SUM-MAX-MIN)
-- [GROUP BY]()
-- [IS NULL]()
+
+GROUP BY 이후의 포스팅은 개별 폴더에 올림
