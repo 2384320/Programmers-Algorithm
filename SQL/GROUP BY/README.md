@@ -9,7 +9,7 @@
 | 05 | [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | [05.sql](https://github.com/2384320/Programmers-Algorithm/blob/main/SQL/GROUP%20BY/05.sql) | [Link](https://swift-badge-161.notion.site/SQL-GROUP-BY-05-980cab1310ea4506a838ebbb3ca887c1) |
 | 06 | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [06.sql](https://github.com/2384320/Programmers-Algorithm/blob/main/SQL/GROUP%20BY/06.sql) | [Link](https://swift-badge-161.notion.site/SQL-GROUP-BY-06-cda71d5cd68b4ffe945eb235941682e1) |
 | 07 | [가격대 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131530) | [07.sql](https://github.com/2384320/Programmers-Algorithm/blob/main/SQL/GROUP%20BY/07.sql) | [Link](https://swift-badge-161.notion.site/SQL-GROUP-BY-07-d216d58663b04ef1a1c19104c460b66e) |
-| 08 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | [08.sql]() | [Link]() |
+| 08 | [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532) | [08.sql](https://github.com/2384320/Programmers-Algorithm/blob/main/SQL/GROUP%20BY/08.sql) | [Link](https://swift-badge-161.notion.site/SQL-GROUP-BY-08-7aaabd96a94447c5988c05e605b7d0be) |
 | 09 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [09.sql]() | [Link]() |
 | 10 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | [10.sql]() | [Link]() |
 | 11 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855) | [11.sql]() | [Link]() |
