@@ -8,7 +8,7 @@
 | 44 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [44.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/41~50/44.java) | [Link](https://swift-badge-161.notion.site/Lv-1-44-3-f11392931ff3486891461efea12fdef3) |
 | 45 | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [45.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/41~50/45.java) | [Link](https://swift-badge-161.notion.site/Lv-1-45-5a4168bd78404b13a8f49e4ad163fa29) |
 | 46 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | [46.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/41~50/46.java) | [Link](https://swift-badge-161.notion.site/Lv-1-46-bd650448bf8348f992d3ed10439485b8) |
-| 47 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [47.java]() | [Link]() |
+| 47 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [47.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/41~50/47.java) | [Link](https://swift-badge-161.notion.site/Lv-1-47-c78bf7730835466689b8d2c8ac20d76d) |
 | 48 | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) | [48.java]() | [Link]() |
 | 49 | [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [49.java]() | [Link]() |
 | 50 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [50.java]() | [Link]() |
