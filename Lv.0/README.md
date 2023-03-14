@@ -6,102 +6,102 @@
 | 02 | [두 수의 차](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [Day01_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Day01_2.java) | [Re_Day01_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Re_Day01_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-02-f9d8d73fac9442b8ba3d1a6d7c51180b) |
 | 03 | [두 수의 곱](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [Day01_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Day01_3.java) | [Re_Day01_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Re_Day01_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-03-21afb0faba3041d7b140e189c9cb4907) |
 | 04 | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [Day01_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Day01_4.java) | [Re_Day01_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day01/Re_Day01_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-04-4906001c2d764fb8911ab491e459b9dc) |
-| 05 | [두 수의 나눗셈]() | [Day02_1.java]() | [Re_Day02_1.java]() | [Link]() |
-| 06 | [숫자 비교하기]() | [Day02_2.java]() | [Re_Day02_2.java]() | [Link]() |
-| 07 | [분수의 덧셈]() | [Day02_3.java]() | [Re_Day02_3.java]() | [Link]() |
-| 08 | [배열 두 배 만들기]() | [Day02_4.java]() | [Re_Day02_4.java]() | [Link]() |
-| 09 | []() | [09.java]() | [Link]() | [Link]() |
-| 10 | []() | [10.java]() | [Link]() | [Link]() |
-| 11 | []() | [11.java]() | [Link]() | [Link]() |
-| 12 | []() | [12.java]() | [Link]() | [Link]() |
-| 13 | []() | [13.java]() | [Link]() | [Link]() |
-| 14 | []() | [14.java]() | [Link]() | [Link]() |
-| 15 | []() | [15.java]() | [Link]() | [Link]() |
-| 16 | []() | [16.java]() | [Link]() | [Link]() |
-| 17 | []() | [17.java]() | [Link]() | [Link]() |
-| 18 | []() | [18.java]() | [Link]() | [Link]() |
-| 19 | []() | [19.java]() | [Link]() | [Link]() |
-| 20 | []() | [20.java]() | [Link]() | [Link]() |
-| 21 | []() | [21.java]() | [Link]() | [Link]() |
-| 22 | []() | [22.java]() | [Link]() | [Link]() |
-| 23 | []() | [23.java]() | [Link]() | [Link]() |
-| 24 | []() | [24.java]() | [Link]() | [Link]() |
-| 25 | []() | [25.java]() | [Link]() | [Link]() |
-| 26 | []() | [26.java]() | [Link]() | [Link]() |
-| 27 | []() | [27.java]() | [Link]() | [Link]() |
-| 28 | []() | [28.java]() | [Link]() | [Link]() |
-| 29 | []() | [29.java]() | [Link]() | [Link]() |
-| 30 | []() | [30.java]() | [Link]() | [Link]() |
-| 31 | []() | [31.java]() | [Link]() | [Link]() |
-| 32 | []() | [32.java]() | [Link]() | [Link]() |
-| 33 | []() | [33.java]() | [Link]() | [Link]() |
-| 34 | []() | [34.java]() | [Link]() | [Link]() |
-| 35 | []() | [35.java]() | [Link]() | [Link]() |
-| 36 | []() | [36.java]() | [Link]() | [Link]() |
-| 37 | []() | [37.java]() | [Link]() | [Link]() |
-| 38 | []() | [38.java]() | [Link]() | [Link]() |
-| 39 | []() | [39.java]() | [Link]() | [Link]() |
-| 40 | []() | [40.java]() | [Link]() | [Link]() |
-| 41 | []() | [41.java]() | [Link]() | [Link]() |
-| 42 | []() | [42.java]() | [Link]() | [Link]() |
-| 43 | []() | [43.java]() | [Link]() | [Link]() |
-| 44 | []() | [44.java]() | [Link]() | [Link]() |
-| 45 | []() | [45.java]() | [Link]() | [Link]() |
-| 46 | []() | [46.java]() | [Link]() | [Link]() |
-| 47 | []() | [47.java]() | [Link]() | [Link]() |
-| 48 | []() | [48.java]() | [Link]() | [Link]() |
-| 49 | []() | [49.java]() | [Link]() | [Link]() |
-| 50 | []() | [50.java]() | [Link]() | [Link]() |
-| 51 | []() | [51.java]() | [Link]() | [Link]() |
-| 52 | []() | [52.java]() | [Link]() | [Link]() |
-| 53 | []() | [53.java]() | [Link]() | [Link]() |
-| 54 | []() | [54.java]() | [Link]() | [Link]() |
-| 55 | []() | [55.java]() | [Link]() | [Link]() |
-| 56 | []() | [56.java]() | [Link]() | [Link]() |
-| 57 | []() | [57.java]() | [Link]() | [Link]() |
-| 58 | []() | [58.java]() | [Link]() | [Link]() |
-| 59 | []() | [59.java]() | [Link]() | [Link]() |
-| 60 | []() | [60.java]() | [Link]() | [Link]() |
-| 61 | []() | [61.java]() | [Link]() | [Link]() |
-| 62 | []() | [62.java]() | [Link]() | [Link]() |
-| 63 | []() | [63.java]() | [Link]() | [Link]() |
-| 64 | []() | [64.java]() | [Link]() | [Link]() |
-| 65 | []() | [65.java]() | [Link]() | [Link]() |
-| 66 | []() | [66.java]() | [Link]() | [Link]() |
-| 67 | []() | [67.java]() | [Link]() | [Link]() |
-| 68 | []() | [68.java]() | [Link]() | [Link]() |
-| 69 | []() | [69.java]() | [Link]() | [Link]() |
-| 70 | []() | [70.java]() | [Link]() | [Link]() |
-| 71 | []() | [71.java]() | [Link]() | [Link]() |
-| 72 | []() | [72.java]() | [Link]() | [Link]() |
-| 73 | []() | [73.java]() | [Link]() | [Link]() |
-| 74 | []() | [74.java]() | [Link]() | [Link]() |
-| 75 | []() | [75.java]() | [Link]() | [Link]() |
-| 76 | []() | [76.java]() | [Link]() | [Link]() |
-| 77 | []() | [77.java]() | [Link]() | [Link]() |
-| 78 | []() | [78.java]() | [Link]() | [Link]() |
-| 79 | []() | [79.java]() | [Link]() | [Link]() |
-| 80 | []() | [80.java]() | [Link]() | [Link]() |
-| 81 | []() | [81.java]() | [Link]() | [Link]() |
-| 82 | []() | [82.java]() | [Link]() | [Link]() |
-| 83 | []() | [83.java]() | [Link]() | [Link]() |
-| 84 | []() | [84.java]() | [Link]() | [Link]() |
-| 85 | []() | [85.java]() | [Link]() | [Link]() |
-| 86 | []() | [86.java]() | [Link]() | [Link]() |
-| 87 | []() | [87.java]() | [Link]() | [Link]() |
-| 88 | []() | [88.java]() | [Link]() | [Link]() |
-| 89 | []() | [89.java]() | [Link]() | [Link]() |
-| 90 | []() | [90.java]() | [Link]() | [Link]() |
-| 91 | []() | [91.java]() | [Link]() | [Link]() |
-| 92 | []() | [92.java]() | [Link]() | [Link]() |
-| 93 | []() | [93.java]() | [Link]() | [Link]() |
-| 94 | []() | [94.java]() | [Link]() | [Link]() |
-| 95 | []() | [95.java]() | [Link]() | [Link]() |
-| 96 | []() | [96.java]() | [Link]() | [Link]() |
-| 97 | []() | [97.java]() | [Link]() | [Link]() |
-| 98 | []() | [98.java]() | [Link]() | [Link]() |
-| 99 | []() | [99.java]() | [Link]() | [Link]() |
-| 100 | []() | [100.java]() | [Link]() | [Link]() |
+| 05 | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [Day02_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Day02_1.java) | [Re_Day02_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Re_Day02_1.java) | [Link]() |
+| 06 | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [Day02_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Day02_2.java) | [Re_Day02_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Re_Day02_2.java) | [Link]() |
+| 07 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [Day02_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Day02_3.java) | [Re_Day02_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Re_Day02_3.java) | [Link]() |
+| 08 | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [Day02_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Day02_4.java) | [Re_Day02_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day02/Re_Day02_4.java) | [Link]() |
+| 09 | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [Day03_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Day03_1.java) | [Re_Day03_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Re_Day03_1.java) | [Link]() |
+| 10 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [Day03_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Day03_2.java) | [Re_Day03_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Re_Day03_2.java) | [Link]() |
+| 11 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [Day03_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Day03_3.java) | [Re_Day03_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Re_Day03_3.java) | [Link]() |
+| 12 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [Day03_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Day03_4.java) | [Re_Day03_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day03/Re_Day03_4.java) | [Link]() |
+| 13 | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [Day04_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Day04_1.java) | [Re_Day04_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Re_Day04_1.java) | [Link]() |
+| 14 | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [Day04_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Day04_2.java) | [Re_Day04_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Re_Day04_2.java) | [Link]() |
+| 15 | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [Day04_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Day04_3.java) | [Re_Day04_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Re_Day04_3.java) | [Link]() |
+| 16 | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [Day04_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Day04_4.java) | [Re_Day04_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day04/Re_Day04_4.java) | [Link]() |
+| 17 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [Day05_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Day05_1.java) | [Re_Day05_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Re_Day05_1.java) | [Link]() |
+| 18 | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [Day05_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Day05_2.java) | [Re_Day05_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Re_Day05_2.java) | [Link]() |
+| 19 | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [Day05_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Day05_3.java) | [Re_Day05_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Re_Day05_3.java) | [Link]() |
+| 20 | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [Day05_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Day05_4.java) | [Re_Day05_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day05/Re_Day05_4.java) | [Link]() |
+| 21 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [Day06_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Day06_1.java) | [Re_Day06_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Re_Day06_1.java) | [Link]() |
+| 22 | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [Day06_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Day06_2.java) | [Re_Day06_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Re_Day06_2.java) | [Link]() |
+| 23 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [Day06_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Day06_3.java) | [Re_Day06_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Re_Day06_3.java) | [Link]() |
+| 24 | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [Day06_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Day06_4.java) | [Re_Day06_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day06/Re_Day06_4.java) | [Link]() |
+| 25 | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [Day07_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Day07_1.java) | [Re_Day07_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Re_Day07_1.java) | [Link]() |
+| 26 | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [Day07_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Day07_2.java) | [Re_Day07_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Re_Day07_2.java) | [Link]() |
+| 27 | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [Day07_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Day07_3.java) | [Re_Day07_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Re_Day07_3.java) | [Link]() |
+| 28 | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [Day07_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Day07_4.java) | [Re_Day07_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day07/Re_Day07_4.java) | [Link]() |
+| 29 | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [Day08_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Day08_1.java) | [Re_Day08_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Re_Day08_1.java) | [Link]() |
+| 30 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [Day08_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Day08_2.java) | [Re_Day08_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Re_Day08_2.java) | [Link]() |
+| 31 | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [Day08_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Day08_3.java) | [Re_Day08_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Re_Day08_3.java) | [Link]() |
+| 32 | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [Day08_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Day08_4.java) | [Re_Day08_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day08/Re_Day08_4.java) | [Link]() |
+| 33 | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [Day09_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Day09_1.java) | [Re_Day09_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Re_Day09_1.java) | [Link]() |
+| 35 | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [Day09_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Day09_2.java) | [Re_Day09_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Re_Day09_2.java) | [Link]() |
+| 34 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [Day09_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Day09_3.java) | [Re_Day09_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Re_Day09_3.java) | [Link]() |
+| 36 | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [Day09_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Day09_4.java) | [Re_Day09_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day09/Re_Day09_4.java) | [Link]() |
+| 37 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [Day10_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Day10_1.java) | [Re_Day10_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Re_Day10_1.java) | [Link]() |
+| 38 | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [Day10_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Day10_2.java) | [Re_Day10_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Re_Day10_2.java) | [Link]() |
+| 39 | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [Day10_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Day10_3.java) | [Re_Day10_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Re_Day10_3.java) | [Link]() |
+| 40 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [Day10_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Day10_4.java) | [Re_Day10_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day10/Re_Day10_4.java) | [Link]() |
+| 41 | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [Day11_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Day11_1.java) | [Re_Day11_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Re_Day11_1.java) | [Link]() |
+| 42 | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [Day11_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Day11_2.java) | [Re_Day11_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Re_Day11_2.java) | [Link]() |
+| 43 | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [Day11_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Day11_3.java) | [Re_Day11_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Re_Day11_3.java) | [Link]() |
+| 44 | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [Day11_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Day11_4.java) | [Re_Day11_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day11/Re_Day11_4.java) | [Link]() |
+| 45 | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [Day12_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Day12_1.java) | [Re_Day12_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Re_Day12_1.java) | [Link]() |
+| 46 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [Day12_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Day12_2.java) | [Re_Day12_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Re_Day12_2.java) | [Link]() |
+| 47 | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [Day12_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Day12_3.java) | [Re_Day12_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Re_Day12_3.java) | [Link]() |
+| 48 | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [Day12_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Day12_4.java) | [Re_Day12_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day12/Re_Day12_4.java) | [Link]() |
+| 49 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [Day13_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Day13_1.java) | [Re_Day13_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Re_Day13_1.java) | [Link]() |
+| 50 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [Day13_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Day13_2.java) | [Re_Day13_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Re_Day13_2.java) | [Link]() |
+| 51 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [Day13_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Day13_3.java) | [Re_Day13_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Re_Day13_3.java) | [Link]() |
+| 52 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [Day13_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Day13_4.java) | [Re_Day13_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day13/Re_Day13_4.java) | [Link]() |
+| 53 | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [Day14_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Day14_1.java) | [Re_Day14_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Re_Day14_1.java) | [Link]() |
+| 54 | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [Day14_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Day14_2.java) | [Re_Day14_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Re_Day14_2.java) | [Link]() |
+| 55 | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | [Day14_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Day14_3.java) | [Re_Day14_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Re_Day14_3.java) | [Link]() |
+| 56 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [Day14_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Day14_4.java) | [Re_Day14_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day14/Re_Day14_4.java) | [Link]() |
+| 57 | [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [Day15_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Day15_1.java) | [Re_Day15_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Re_Day15_1.java) | [Link]() |
+| 58 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [Day15_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Day15_2.java) | [Re_Day15_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Re_Day15_2.java) | [Link]() |
+| 59 | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [Day15_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Day15_3.java) | [Re_Day15_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Re_Day15_3.java) | [Link]() |
+| 60 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [Day15_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Day15_4.java) | [Re_Day15_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day15/Re_Day15_4.java) | [Link]() |
+| 61 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [Day16_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Day16_1.java) | [Re_Day16_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Re_Day16_1.java) | [Link]() |
+| 62 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [Day16_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Day16_2.java) | [Re_Day16_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Re_Day16_2.java) | [Link]() |
+| 63 | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | [Day16_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Day16_3.java) | [Re_Day16_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Re_Day16_3.java) | [Link]() |
+| 64 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | [Day16_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Day16_4.java) | [Re_Day16_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day16/Re_Day16_4.java) | [Link]() |
+| 65 | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | [Day17_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Day17_1.java) | [Re_Day17_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Re_Day17_1.java) | [Link]() |
+| 66 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | [Day17_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Day17_2.java) | [Re_Day17_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Re_Day17_2.java) | [Link]() |
+| 67 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | [Day17_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Day17_3.java) | [Re_Day17_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Re_Day17_3.java) | [Link]() |
+| 68 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [Day17_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Day17_4.java) | [Re_Day17_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day17/Re_Day17_4.java) | [Link]() |
+| 69 | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [Day18_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Day18_1.java) | [Re_Day18_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Re_Day18_1.java) | [Link]() |
+| 70 | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [Day18_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Day18_2.java) | [Re_Day18_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Re_Day18_2.java) | [Link]() |
+| 71 | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [Day18_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Day18_3.java) | [Re_Day18_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Re_Day18_3.java) | [Link]() |
+| 72 | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [Day18_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Day18_4.java) | [Re_Day18_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day18/Re_Day18_4.java) | [Link]() |
+| 73 | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [Day19_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Day19_1.java) | [Re_Day19_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Re_Day19_1.java) | [Link]() |
+| 74 | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | [Day19_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Day19_2.java) | [Re_Day19_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Re_Day19_2.java) | [Link]() |
+| 75 | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [Day19_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Day19_3.java) | [Re_Day19_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Re_Day19_3.java) | [Link]() |
+| 76 | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [Day19_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Day19_4.java) | [Re_Day19_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day19/Re_Day19_4.java) | [Link]() |
+| 77 | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [Day20_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Day20_1.java) | [Re_Day20_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Re_Day20_1.java) | [Link]() |
+| 78 | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [Day20_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Day20_2.java) | [Re_Day20_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Re_Day20_2.java) | [Link]() |
+| 79 | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [Day20_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Day20_3.java) | [Re_Day20_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Re_Day20_3.java) | [Link]() |
+| 80 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [Day20_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Day20_4.java) | [Re_Day20_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day20/Re_Day20_4.java) | [Link]() |
+| 81 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [Day21_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Day21_1.java) | [Re_Day21_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Re_Day21_1.java) | [Link]() |
+| 82 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [Day21_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Day21_2.java) | [Re_Day21_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Re_Day21_2.java) | [Link]() |
+| 83 | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [Day21_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Day21_3.java) | [Re_Day21_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Re_Day21_3.java) | [Link]() |
+| 84 | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [Day21_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Day21_4.java) | [Re_Day21_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day21/Re_Day21_4.java) | [Link]() |
+| 85 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [Day22_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Day22_1.java) | [Re_Day22_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Re_Day22_1.java) | [Link]() |
+| 86 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [Day22_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Day22_2.java) | [Re_Day22_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Re_Day22_2.java) | [Link]() |
+| 87 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [Day22_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Day22_3.java) | [Re_Day22_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Re_Day22_3.java) | [Link]() |
+| 88 | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [Day22_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Day22_4.java) | [Re_Day22_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day22/Re_Day22_4.java) | [Link]() |
+| 89 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [Day23_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Day23_1.java) | [Re_Day23_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Re_Day23_1.java) | [Link]() |
+| 90 | [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [Day23_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Day23_2.java) | [Re_Day23_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Re_Day23_2.java) | [Link]() |
+| 91 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [Day23_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Day23_3.java) | [Re_Day23_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Re_Day23_3.java) | [Link]() |
+| 92 | [로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [Day23_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Day23_4.java) | [Re_Day23_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day23/Re_Day23_4.java) | [Link]() |
+| 93 | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [Day24_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Day24_1.java) | [Re_Day24_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Re_Day24_1.java) | [Link]() |
+| 94 | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | [Day24_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Day24_2.java) | [Re_Day24_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Re_Day24_2.java) | [Link]() |
+| 95 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [Day24_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Day24_3.java) | [Re_Day24_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Re_Day24_3.java) | [Link]() |
+| 96 | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | [Day24_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Day24_4.java) | [Re_Day24_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day24/Re_Day24_4.java) | [Link]() |
+| 97 | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [Day25_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Day25_1.java) | [Re_Day25_1.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Re_Day25_1.java) | [Link]() |
+| 98 | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [Day25_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Day25_2.java) | [Re_Day25_2.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Re_Day25_2.java) | [Link]() |
+| 99 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [Day25_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Day25_3.java) | [Re_Day25_3.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Re_Day25_3.java) | [Link]() |
+| 100 | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [Day25_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Day25_4.java) | [Re_Day25_4.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.0/Day25/Re_Day25_4.java) | [Link]() |
 
 ---
 
