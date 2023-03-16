@@ -1,0 +1,20 @@
+# String, Date
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|
+| 01 | [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) | [01.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/01.sql) | [Link](https://swift-badge-161.notion.site/SQL-String-Date-01-2804d5fba1fa407cac787f91ebca3b92) |
+| 02 | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | [02.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/02.sql) | [Link](https://swift-badge-161.notion.site/SQL-String-Date-02-el-e0453d165e7e4bba893b08d7541429ea) |
+| 03 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409) | [03.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/03.sql) | [Link](https://swift-badge-161.notion.site/SQL-String-Date-03-0016c64e4f634f5fae6677650af1af5f) |
+| 04 | [오랜 기간 보호한 동물 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/59411) | [04.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/04.sql) | [Link](https://swift-badge-161.notion.site/SQL-String-Date-04-2-9ce93ca9430748ec886c2a32170dc673) |
+| 05 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | [05.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/05.sql) | [Link](https://swift-badge-161.notion.site/SQL-String-Date-05-DATETIME-DATE-a87e8c9ce444495dbc827b22c5964d74) |
+| 06 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113) | [06.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/06.sql) | [Link]() |
+| 07 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) | [07.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/07.sql) | [Link]() |
+| 08 | [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204) | [08.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/08.sql) | [Link]() |
+| 09 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [09.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/09.sql) | [Link]() |
+| 10 | [자동차 대여 기록 별 대여 금액 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151141) | [10.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/10.sql) | [Link]() |
+| 11 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | [11.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/11.sql) | [Link]() |
+| 12 | [자동차 평균 대여 기간 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157342) | [12.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/12.sql) | [Link]() |
+| 13 | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343) | [13.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/13.sql) | [Link]() |
+| 14 | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164670) | [14.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/14.sql) | [Link]() |
+| 15 | [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671) | [15.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/15.sql) | [Link]() |
+| 16 | [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672) | [16.sql](https://github.com/2384320/Programmers-Algorithm/tree/main/SQL/String%2C%20Date/16.sql) | [Link]() |
