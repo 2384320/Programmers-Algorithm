@@ -3,7 +3,7 @@
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|
 | 51 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [51.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/51.java) | [Link](https://swift-badge-161.notion.site/Lv-1-51-2c2cde2a76d9465cac8811bd25a26cf2) |
-| 52 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [52.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/52.java) | [Link]() |
+| 52 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [52.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/52.java) | [Link](https://swift-badge-161.notion.site/Lv-1-52-93ad486982404a0c9001920674352e82) |
 | 53 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [53.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/53.java) | [Link]() |
 | 54 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [54.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/54.java) | [Link]() |
 | 55 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [55.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/55.java) | [Link]() |
