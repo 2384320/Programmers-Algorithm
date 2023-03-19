@@ -4,9 +4,9 @@
 |----|----|----|----|
 | 51 | [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [51.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/51.java) | [Link](https://swift-badge-161.notion.site/Lv-1-51-2c2cde2a76d9465cac8811bd25a26cf2) |
 | 52 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) | [52.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/52.java) | [Link](https://swift-badge-161.notion.site/Lv-1-52-93ad486982404a0c9001920674352e82) |
-| 53 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [53.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/53.java) | [Link]() |
-| 54 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [54.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/54.java) | [Link]() |
-| 55 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [55.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/55.java) | [Link]() |
+| 53 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [53.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/53.java) | [Link](https://swift-badge-161.notion.site/Lv-1-53-ee8411aab5bc4b58a8e352624836b6f3) |
+| 54 | [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [54.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/54.java) | [Link](https://swift-badge-161.notion.site/Lv-1-54-1-0c1c6bfa4d5d4eb69c692db371ce541d) |
+| 55 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [55.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/55.java) | [Link](https://swift-badge-161.notion.site/Lv-1-55-92a4e5fce527403dae59876633321ff1) |
 | 56 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [56.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/56.java) | [Link]() |
 | 57 | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [57.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/57.java) | [Link]() |
 | 58 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | [58.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/51~60/58.java) | [Link]() |
