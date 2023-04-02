@@ -1,26 +1,18 @@
 class Solution {
-    public String solution(String s, String skip, int index) {
-        String answer = "";
-        int cnt;
-        char[] skipArr = skip.toCharArray();
-        char[] sArr = s.toCharArray();
+    public String solution(String[] cards1, String[] cards2, String[] goal) {
+        String answer = "Yes";
+        int idxOne = 0, idxTwo = 0;
         
-        boolean[] check = new boolean[27];
-        check[0] = true;
-        
-        for (char ch : skipArr) {
-            check[ch - 96] = true;
-        }
-        
-        for (char ch : sArr) {
-            ch -= 96;
-            cnt = 0;
-            while (cnt < index) {
-                if (++ch >= 27) ch -= 26;
-                if (check[ch]) continue;
-                cnt++;
+        for (String goalStr : goal) {
+            if (goalStr.equals(cards1[idxOne])) idxOne++;
+            else if (goalStr.equals(cards2[idxTwo])) idxTwo++;
+            else {
+                answer = "No";
+                break;
             }
-            answer += Character.toString(ch+96);
+            
+            if (idxOne == cards1.length) idxOne = 0;
+            if (idxTwo == cards2.length) idxTwo = 0;
         }
         
         return answer;
