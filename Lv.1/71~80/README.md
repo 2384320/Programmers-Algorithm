@@ -3,7 +3,7 @@
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|
 | 71 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [71.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/71.java) | [Link](https://swift-badge-161.notion.site/Lv-1-071-a59f1a833e784a0f83a44d73bf3332c2) |
-| 72 | []() | [72.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/72.java) | [Link]() |
+| 72 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) | [72.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/72.java) | [Link](https://swift-badge-161.notion.site/Lv-1-072-e5982dee9fa74c3f8c2bce83c456cb56) |
 | 73 | []() | [73.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/73.java) | [Link]() |
 | 74 | []() | [74.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/74.java) | [Link]() |
 | 75 | []() | [75.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.1/71~80/75.java) | [Link]() |
