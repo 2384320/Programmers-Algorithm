@@ -1,4 +1,4 @@
-# Lv. 0
+# Lv. 0 코딩테스트 입문
 
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
