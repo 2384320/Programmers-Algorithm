@@ -3,7 +3,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 11 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [11.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/11.java) | [Re_11.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-011-97b14c68c9ec4fa7a7362ce70eba6279) |
-| 12 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [12.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/12.java) | [Re_12.java]() | [Link]() |
+| 12 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [12.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/12.java) | [Re_12.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-012-34ec44bbf1134fbfac1230d1ea501cab) |
 | 13 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [13.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/13.java) | [Re_13.java]() | [Link]() |
 | 14 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [14.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/14.java) | [Re_14.java]() | [Link]() |
 | 15 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [15.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/11~20/15.java) | [Re_15.java]() | [Link]() |
