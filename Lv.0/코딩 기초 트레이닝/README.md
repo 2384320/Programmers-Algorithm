@@ -34,11 +34,41 @@
 
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|----|
-| 01 | [n의 배수]() | [Day00_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_1.java) | [Link]() |
-| 02 | [공배수]() | [Day00_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_2.java) | [Link]() |
-| 03 | [홀짝에 따라 다른 값 반환하기]() | [Day00_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_3.java) | [Link]() |
-| 04 | [조건 문자열]() | [Day00_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_4.java) | [Link]() |
-| 05 | [flag에 따라 다른 값 반환하기]() | [Day00_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_5.java) | [Link]() |
+| 01 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [Day04_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day04/Day04_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day04-01-n-2e2bf0ab94ca48f0b9b54ed6de59709e) |
+| 02 | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [Day04_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day04/Day04_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day04-02-d6539d93566b4473afc514ca80cb177e) |
+| 03 | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [Day04_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day04/Day04_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day04-03-5248c8a94a2c4fa9a6147f0a04888f50) |
+| 04 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [Day04_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day04/Day04_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day04-04-0aabc320d6974e5c89905e7ce925b34a) |
+| 05 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [Day04_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day04/Day04_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day04-05-flag-583ce036e6e2422d9c60d1efb6d45d38) |
+
+## Day 05 조건문
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [Day05_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day05/Day05_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day05-01-3b2cf12dc47a4bf6bce70b63924a037b) |
+| 02 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [Day05_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day05/Day05_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day05-02-697c34674bc64cafbdc84cb20453b13d) |
+| 03 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [Day05_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day05/Day05_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day05-03-2-c9def30b933749009ae1a097245124f5) |
+| 04 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [Day05_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day05/Day05_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day05-04-74a5fd8168e14ee68105a2e36bda48a0) |
+| 05 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [Day05_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day05/Day05_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day05-05-9eb567779d66424babf15bfab6f3bd2e) |
+
+## Day 06
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [Day06_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day06/Day06_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day06-01-c9c64ab2d29f4c0ca0469e090010fb5b) |
+| 02 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [Day06_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day06/Day06_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day06-02-1-0e9db6fed89742feb4c6cc3546d2b8e9) |
+| 03 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [Day06_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day06/Day06_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day06-03-2-628156b584f04cf596dd2b482aefff34) |
+| 04 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [Day06_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day06/Day06_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day06-04-3-701203c1cb97467da83bcf64c1da1aa8) |
+| 05 | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [Day06_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day06/Day06_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day06-05-2-70048e64b1d64891b0975540526316cf) |
+
+## Day 07
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | []() | [Day07_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day07/Day07_1.java) | [Link]() |
+| 02 | []() | [Day07_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day07/Day07_2.java) | [Link]() |
+| 03 | []() | [Day07_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day07/Day07_3.java) | [Link]() |
+| 04 | []() | [Day07_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day07/Day07_4.java) | [Link]() |
+| 05 | []() | [Day07_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day07/Day07_5.java) | [Link]() |
 
 ## Day 00
 
