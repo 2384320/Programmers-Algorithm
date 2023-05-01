@@ -160,6 +160,26 @@
 | 04 | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [Day16_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day16/Day16_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day16-04-A-687d6d7d61f04bc8b7c0679d0918c4c6) |
 | 05 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [Day16_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day16/Day16_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day16-05-bb067bae3cfb4e0e99d76591d6b1415a) |
 
+## Day 17 문자열
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | [Day17_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day17/Day17_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day17-01-a2f36f807f5c42c688c245fd5655b0ae) |
+| 02 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [Day17_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day17/Day17_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day17-02-9ba6f3b15d424b2d95e73fdece9896ac) |
+| 03 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [Day17_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day17/Day17_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day17-03-ad-fe81404dda0c429583b69edbab2c67c2) |
+| 04 | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [Day17_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day17/Day17_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day17-04-1-d29e36bdfdf049a39584f74d73cb68dd) |
+| 05 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [Day17_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day17/Day17_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day17-05-2-5b569da44fc64f64bb44469312dc2176) |
+
+## Day 18 문자열
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [Day18_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day18/Day18_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day18-01-x-7074ba4f8ebf485496e274db9e9d7d3b) |
+| 02 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | [Day18_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day18/Day18_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day18-02-a7e8c34db41e4a61b8d85c125baf628d) |
+| 03 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [Day18_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day18/Day18_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day18-03-42ed3de01d224967b6883245140084cf) |
+| 04 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [Day18_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day18/Day18_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day18-04-ba7ce070029744239fd59ce6eab7daba) |
+| 05 | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [Day18_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day18/Day18_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day18-05-rny_string-190956717698472f9d3bab2b12d14158) |
+
 ## Day 00
 
 | Index | Title | Link(Github) | Link(Posting) |
