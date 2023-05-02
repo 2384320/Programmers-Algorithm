@@ -3,7 +3,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 21 | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [21.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/21.java) | [Re_21.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-021-N-Queen-2566e9230b2a48a1969bc5b136a4ead3) |
-| 22 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [22.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/22.java) | [Re_22.java]() | [Link]() |
+| 22 | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [22.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/22.java) | [Re_22.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-022-N-2fc31b4de38b4adbbb12c9d69b749234) |
 | 23 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [23.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/23.java) | [Re_23.java]() | [Link]() |
 | 24 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [24.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/24.java) | [Re_24.java]() | [Link]() |
 | 25 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [25.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/21~30/25.java) | [Re_25.java]() | [Link]() |
