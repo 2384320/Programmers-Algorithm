@@ -190,7 +190,7 @@
 | 04 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [Day19_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day19/Day19_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day19-04-6-107a3c50eb1e400daa0dc031f075bd32) |
 | 05 | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [Day19_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day19/Day19_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day19-05-K-42b080402554457eb1f5c5bd0f60d5f9) |
 
-## Day 20
+## Day 20 함수(메소드)
 
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|----|
@@ -199,6 +199,26 @@
 | 03 | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [Day20_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day20/Day20_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day20-03-f47ea308c8394938ad19669100717bf1) |
 | 04 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [Day20_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day20/Day20_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day20-04-baef75f25101447dbb6185caa326b3dd) |
 | 05 | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [Day20_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day20/Day20_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day20-05-5-22ffa64b54274b5488260ee3adc9d0df) |
+
+## Day 21 함수(메소드)
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [Day21_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day21/Day21_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day21-01-5-092027dc0e6a47c49965745de3bdbdc7) |
+| 02 | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [Day21_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day21/Day21_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day21-02-48d994e85a8c4ab8a10c6c21374c632b) |
+| 03 | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [Day21_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day21/Day21_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day21-03-fe0700a8cce24f769ef11930f66a3d85) |
+| 04 | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [Day21_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day21/Day21_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day21-04-822049e9e3b94d9c944404a1ca7c9504) |
+| 05 | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | [Day21_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day21/Day21_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day21-05-aca70eec66af455fbf55ebd10d2e281e) |
+
+## Day 22 함수(메소드), 조건문 활용
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [Day22_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-01-0-269242f2bfa64a259005c1c907f6f03f) |
+| 02 | [두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [Day22_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-02-2d98d74aef034e33939fd6a3e98c6388) |
+| 03 | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [Day22_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-03-fdf339ac4d644be181f2fe9c42a743fe) |
+| 04 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [Day22_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-04-c7381a58a01742edad03908d51e48395) |
+| 05 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [Day22_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-05-f68170b620c34426988e81f6b0510027) |
 
 ## Day 00
 
