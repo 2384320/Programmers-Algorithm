@@ -220,22 +220,31 @@
 | 04 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [Day22_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-04-c7381a58a01742edad03908d51e48395) |
 | 05 | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [Day22_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day22/Day22_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day22-05-f68170b620c34426988e81f6b0510027) |
 
-## Day 00
+## Day 23 조건문 활용
 
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|----|
-| 01 | []() | [Day00_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_1.java) | [Link]() |
-| 02 | []() | [Day00_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_2.java) | [Link]() |
-| 03 | []() | [Day00_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_3.java) | [Link]() |
-| 04 | []() | [Day00_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_4.java) | [Link]() |
-| 05 | []() | [Day00_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_5.java) | [Link]() |
+| 01 | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [Day23_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day23/Day23_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day23-01-8f82e1d9274042c998a790bd8d4caa82) |
+| 02 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [Day23_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day23/Day23_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day23-02-72d7ba75adbb45a1aca9cad2810fd4f0) |
+| 03 | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | [Day23_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day23/Day23_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day23-03-dfb7728436314dffaf1b4448850c0f96) |
+| 04 | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [Day23_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day23/Day23_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day23-04-1-04e52e837fbd4e408713cef87e492bc2) |
+| 05 | [날짜 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181838) | [Day23_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day23/Day23_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day23-05-acd89ff467924037a554a046c904f0ce) |
 
-## Day 00
+## Day 24 조건문 활용, 반복문 활용, 이차원 리스트(배열)
 
 | Index | Title | Link(Github) | Link(Posting) |
 |----|----|----|----|----|
-| 01 | []() | [Day00_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_1.java) | [Link]() |
-| 02 | []() | [Day00_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_2.java) | [Link]() |
-| 03 | []() | [Day00_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_3.java) | [Link]() |
-| 04 | []() | [Day00_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_4.java) | [Link]() |
-| 05 | []() | [Day00_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day00/Day00_5.java) | [Link]() |
+| 01 | [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837) | [Day24_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day24/Day24_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day24-01-884db0b45ff941eca114693e4a526d5d) |
+| 02 | [그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836) | [Day24_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day24/Day24_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day24-02-a03e8264dcd241ca9a8930c1ad2e233e) |
+| 03 | [조건에 맞게 수열 변환하기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [Day24_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day24/Day24_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day24-03-3-ab3d04c3364542b8895ceddb47162a4d) |
+| 04 | [l로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [Day24_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day24/Day24_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day24-04-l-4f2b75e29e724feb83fca77c28871d2e) |
+| 05 | [특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [Day24_5.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day24/Day24_5.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day24-05-1-70c493d6cff34acd9f89c23c050f9b8d) |
+
+## Day 25 이차원 리스트(배열)
+
+| Index | Title | Link(Github) | Link(Posting) |
+|----|----|----|----|----|
+| 01 | [정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832) | [Day25_1.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day25/Day25_1.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day25-01-1522799d1f6c4a2f88e069bfad2515d4) |
+| 02 | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [Day25_2.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day25/Day25_2.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day25-02-2-17e30940a67f40a0adc0e6e2f08f917a) |
+| 03 | [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830) | [Day25_3.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day25/Day25_3.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day25-03-c53e994a18a14a5b978da87c21a4b91d) |
+| 04 | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [Day25_4.java](https://github.com/2384320/Programmers-Algorithm/tree/main/Lv.0/%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/Day25/Day25_4.java) | [Link](https://swift-badge-161.notion.site/Lv-0-Day25-04-06e4372b901d4db2938f96b73666e558) |
