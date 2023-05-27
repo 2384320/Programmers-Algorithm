@@ -1,5 +1,3 @@
 # Programmers-Algorithm
 
-프로그래머스 코딩테스트 문제 풀이 with Java
-
-SQL은 따로 구분함.
+프로그래머스 코딩테스트 문제 풀이 with Java, SQL
