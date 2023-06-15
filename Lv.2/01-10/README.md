@@ -2,7 +2,7 @@
 
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
-| 01 | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [01.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/01.java) | [Re_01.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-001-ed39f23385754aad918869351b4f219d) |
+| 01 | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [01.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/01.java) | [Re_01.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/Re_01.java) | [Link](https://swift-badge-161.notion.site/Lv-2-001-ed39f23385754aad918869351b4f219d) |
 | 02 | [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835) | [02.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/02.java) | [Re_02.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-002-bb03fb02a26e4543a2c0467f6ab52b83) |
 | 03 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [03.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/03.java) | [Re_03.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-003-eb19c40cbb5b4c3db9b929ca09ba57f6) |
 | 04 | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [04.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/01~10/04.java) | [Re_04.java]() | [Link](https://swift-badge-161.notion.site/Lv-2-004-124-d95be11b2b154606aa0a2791b2f5f6dc) |
