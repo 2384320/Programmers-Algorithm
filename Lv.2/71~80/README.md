@@ -2,7 +2,7 @@
 
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
-| 71 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [71.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/71.java) | [Re_71.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/Re_71.java) | [Link]() |
+| 71 | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [71.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/71.java) | [Re_71.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/Re_71.java) | [Link](https://swift-badge-161.notion.site/Lv-2-071-4784dfb98109408f97928f918d99e68f?pvs=4) |
 | 72 | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [72.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/72.java) | [Re_72.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/Re_72.java) | [Link]() |
 | 73 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [73.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/73.java) | [Re_73.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/Re_73.java) | [Link]() |
 | 74 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [74.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/74.java) | [Re_74.java](https://github.com/2384320/Programmers-Algorithm/blob/main/Lv.2/71~80/Re_74.java) | [Link]() |
